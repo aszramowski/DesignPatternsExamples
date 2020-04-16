@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterExample", "AdapterEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeExample", "BridgeExample\BridgeExample.csproj", "{68135380-1A83-4178-B5FE-DA05C5A64838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeExample", "CompositeExample\CompositeExample.csproj", "{03AAE750-C272-43EF-AC8D-2384B1A6AC13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{68135380-1A83-4178-B5FE-DA05C5A64838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68135380-1A83-4178-B5FE-DA05C5A64838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68135380-1A83-4178-B5FE-DA05C5A64838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03AAE750-C272-43EF-AC8D-2384B1A6AC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AAE750-C272-43EF-AC8D-2384B1A6AC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AAE750-C272-43EF-AC8D-2384B1A6AC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AAE750-C272-43EF-AC8D-2384B1A6AC13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
